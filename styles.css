@@ -120,6 +120,8 @@ body{
     .container{
         display: 40px;
           margin: 40px;
+        width: 100%;
+        height: 70%;
         
     }
 
