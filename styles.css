@@ -119,6 +119,8 @@ body{
 @media (max-width: 962px){
     .container{
         display: 40px;
+          margin: 40px;
+        
     }
 
     .container .content-box{
